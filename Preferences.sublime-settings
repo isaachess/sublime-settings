@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/peacock.tmTheme",
+	"font_face": "Menlo",
+	"font_options":
+	[
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		// "Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Nexus.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"open_files_in_new_window": false
+}
