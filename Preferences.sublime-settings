@@ -1,6 +1,7 @@
 {
 	"caret_style": "solid",
 	"color_scheme": "Packages/User/Gruvbox.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Menlo",
 	"font_options":
 	[
@@ -14,6 +15,5 @@
 	"theme": "Nexus.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
-	"vintage_start_in_command_mode": true,
-	"ensure_newline_at_eof_on_save": true
+	"vintage_start_in_command_mode": true
 }
