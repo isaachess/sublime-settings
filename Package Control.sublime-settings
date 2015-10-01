@@ -1,4 +1,9 @@
 {
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Better TypeScript",
@@ -7,6 +12,7 @@
 		"LESS",
 		"Markdown Preview",
 		"Monokai Extended",
+		"Package Control",
 		"PackageResourceViewer",
 		"SublimeREPL",
 		"Theme - Flatland",
